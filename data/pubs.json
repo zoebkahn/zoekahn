@@ -1,0 +1,64 @@
+[
+    {
+        "title"     : "Digital Social Protection and Social Cohesion: The Role of Human Intermediaries in Rural Togo.",
+        "conference": "(submitted).",
+        "authors"   : "<b>Zoe Kahn</b>.",
+        "link"      : "",
+        "code"     : "",
+        "talk"    : "",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
+
+    {
+        "title"     : "Responsible AI Maturity Model.",
+        "conference": "(submitted).",
+        "authors"   : "Amy Heger, Samir Passi, Shipi Dhanorkar, <b>Zoe Kahn</b>, Ruotong Wang, and Mihaela Vorvoreanu.",
+        "link"      : "https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/",
+        "code"     : "",
+        "talk"    :  "https://www.microsoft.com/en-us/research/video/lightning-talks-responsible-ai-the-challenge-of-big-models/",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
+    {
+        "title"     : "Expanding Perspectives on Data Privacy: Insights from Rural Togo.",
+        "conference": "Computer Supported Cooperative Work (CSCW) (accepted).",
+        "authors"   : "<b>Zoe Kahn</b>, Meybinesso Farida Carelle PERE, Emily Aiken, Nitin Kohli, and Joshua Blumenstock.",
+        "link"      : "https://arxiv.org/pdf/2409.17578",
+        "code"     : "",
+        "talk"    : " https://www.youtube.com/watch?v=r6e1HIWZARg",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
+    {
+        "title"     : "A Sociocultural Explanation of Internet-Enabled Work in Rural Regions.",
+        "conference": "TOCHI Special Issue on Rural Computing (2021).",
+        "authors"   : "<b>Zoe Kahn</b> and Jenna Burrell.",
+        "link"      : "https://dl.acm.org/doi/pdf/10.1145/3443705",
+        "code"     : "",
+        "talk"    : "https://www.youtube.com/watch?v=orZAsSkFPEg",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
+    {
+        "title"     : "When Users Control The Algorithms: Values Expressed in Practices on Twitter.",
+        "conference": "Computer Supported Cooperative Work (CSCW) (2019).",
+        "authors"   : "Jenna Burrell, <b>Zoe Kahn</b>, Anne Jonas, and Daniel Griffin.",
+        "link"      : "https://dl.acm.org/doi/pdf/10.1145/3359240",
+        "code"     : "",
+        "talk"    : "https://www.youtube.com/watch?v=MSZSJqDXQLE",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    }
+
+]

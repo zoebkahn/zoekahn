@@ -1,0 +1,17 @@
+[
+    {
+        "main-font-color-light": "black",
+        "background-color-light": "#ffffff",
+        "header-color-light": "#222",
+        "link-color-light": "#3B7EA1",
+        "link-hover-color-light": "#00A598",
+        "divider-color-light": "#003362",
+
+        "main-font-color-dark": "#EEEEEE",
+        "background-color-dark": "black",
+        "header-color-dark": "#EEEEEE",
+        "link-hover-color-dark": "#3B7EA1",
+        "link-color-dark": "#00A598",
+        "divider-color-dark": "#AAAAAA"
+    }
+]
