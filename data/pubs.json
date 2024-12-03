@@ -1,5 +1,17 @@
 [
     {
+        "title"     : "Provocation on Expertise in Social Impact Evaluations for Generative AI (and Beyond).",
+        "conference": "Conference on Neural Information Processing Systems (NerIPS) (2025, accepted).",
+        "authors"   : "<b>Zoe Kahn</b> and Nitin Kohli.",
+        "link"      : "http://arxiv.org/abs/2411.06017",
+        "code"     : "",
+        "talk"    : "",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Workshop Papers",
+        "selected"  : true
+    },
+    {
         "title"     : "Digital Social Protection and Social Cohesion: The Role of Human Intermediaries in Rural Togo.",
         "conference": "(submitted).",
         "authors"   : "<b>Zoe Kahn</b>.",
@@ -26,7 +38,7 @@
     },
     {
         "title"     : "Expanding Perspectives on Data Privacy: Insights from Rural Togo.",
-        "conference": "Computer Supported Cooperative Work (CSCW) (accepted).",
+        "conference": "Computer Supported Cooperative Work (CSCW) (2025, accepted).",
         "authors"   : "<b>Zoe Kahn</b>, Meybinesso Farida Carelle PERE, Emily Aiken, Nitin Kohli, and Joshua Blumenstock.",
         "link"      : "https://arxiv.org/pdf/2409.17578",
         "code"     : "",
