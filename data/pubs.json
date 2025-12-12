@@ -1,17 +1,5 @@
 [
     {
-        "title"     : "Provocation on Expertise in Social Impact Evaluations for Generative AI (and Beyond).",
-        "conference": "Conference on Neural Information Processing Systems (NerIPS) (2025, accepted).",
-        "authors"   : "<b>Zoe Kahn</b> and Nitin Kohli.",
-        "link"      : "http://arxiv.org/abs/2411.06017",
-        "code"     : "",
-        "talk"    : "",
-        "extra"    : "",
-        "early"    : "",
-        "section"   : "Workshop Papers",
-        "selected"  : true
-    },
-    {
         "title"     : "Digital Social Protection and Social Cohesion: The Role of Human Intermediaries in Rural Togo.",
         "conference": "(submitted).",
         "authors"   : "<b>Zoe Kahn</b>.",
@@ -23,10 +11,9 @@
         "section"   : "Journal Articles and Conference Proceedings",
         "selected"  : true
     },
-
-    {
+   {
         "title"     : "Responsible AI Maturity Model.",
-        "conference": "(submitted).",
+        "conference": "Computer Supported Cooperative Work (CSCW) (2025, accepted).",
         "authors"   : "Amy Heger, Samir Passi, Shipi Dhanorkar, <b>Zoe Kahn</b>, Ruotong Wang, and Mihaela Vorvoreanu.",
         "link"      : "https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/",
         "code"     : "",
@@ -34,6 +21,18 @@
         "extra"    : "",
         "early"    : "",
         "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
+    {
+        "title"     : "Provocation on Expertise in Social Impact Evaluations for Generative AI (and Beyond).",
+        "conference": "Conference on Neural Information Processing Systems (NerIPS) (2024).",
+        "authors"   : "<b>Zoe Kahn</b> and Nitin Kohli.",
+        "link"      : "http://arxiv.org/abs/2411.06017",
+        "code"     : "",
+        "talk"    : "",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Workshop Papers",
         "selected"  : true
     },
     {
